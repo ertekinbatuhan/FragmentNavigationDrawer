@@ -26,7 +26,7 @@ NavigationUI.setupWithNavController(NavigationView,navhost.navController)
 toogle.syncState()
 
         val baslik = NavigationView.inflateHeaderView(R.layout.baslik)
-        baslik.baslikText.text = "Hello World "
+        baslik.baslikText.text = "Hello "
 
 
 
